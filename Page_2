@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Second Page</title>
+        <style>
+            h1 {
+              color: #d303fc;
+              text-align: center
+            }
+            body{
+              background-color: #373854
+            }
+        </style>
+    </head>
+    <h1>
+        The Ice Cream Site
+    </h1>
+    <body>
+      <a href="C:\Users\malonea\Documents\Chicken\Classes\CS50\Project 0\Index.html">Home<a/>
+      <ol>
+          <li>
+            Ice cream is delicious
+          </li>
+          <li>
+            Ice cream is good for you
+          </li>
+          <li>
+            Ice cream never hurt anyone
+          </li>
+        </ol>
+    </body>
+
+</html>
