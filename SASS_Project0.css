@@ -1,0 +1,44 @@
+h2 {
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: white; }
+
+#Title_Header {
+  font-size: 60pt; }
+
+h1 {
+  color: #e86af0;
+  background: black;
+  text-align: center;
+  font-family: serif; }
+
+h2 {
+  position: absolute;
+  top: 20%;
+  left: 33%; }
+
+@media (max-width: 200px) {
+  body {
+    background-color: black; } }
+body {
+  background-color: #373854;
+  color: #e86af0;
+  text-align: center; }
+
+div {
+  text-align: center; }
+
+table {
+  border: 3px solid gray; }
+  table tr, table td {
+    text-align: inherit;
+    color: #e86af0;
+    border: 2px solid silver; }
+
+p {
+  margin-top: 5%; }
+
+h2.container2 {
+  height: 100%; }
+
+/*# sourceMappingURL=SASS_Project0.css.map */
